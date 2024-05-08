@@ -37,6 +37,9 @@ This project is licensed under the [License Name]. See the LICENSE file for deta
 
 ## Acknowledgments
 - Abeda Inamdar Senior College - India
+
+---
+![SNAKE LOGO](https://github.com/juverias/Snake-Game/blob/master/snakelogo.png)
 - Java, SWT, and Swing libraries
 
 
